@@ -15,3 +15,7 @@
 
 ### Figure 7: Simulate a person's path between homes (With spine path)
 <img src="./warmup_7.png" />
+
+
+### Challenge Question Outcome
+<img src = "./challenge_1.png" />
