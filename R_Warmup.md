@@ -18,4 +18,4 @@
 
 
 ### Challenge Question Outcome
-<img src = "./challenge_.png" />
+<img src = "./challenge_1.png" />
