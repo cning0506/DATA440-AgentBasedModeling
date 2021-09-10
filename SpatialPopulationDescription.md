@@ -16,5 +16,5 @@ There is a major difference between the international borders. GADM has a greate
 ### Figure 3 : Administrative subdivisions for Rwanda using geoBoundaries Shapefiles  
 <img src="./rwanda_gB.png" />
 
-
-
+## Stretch Goal 2: Secondary adminstrative subdivisions in Rwanda's most populous province 
+<img src="./rwanda_sg2.png" />
