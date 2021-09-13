@@ -18,3 +18,6 @@ There is a major difference between the international borders. GADM has a greate
 
 ## Stretch Goal 2: Secondary adminstrative subdivisions in Rwanda's most populous province 
 <img src="./rwanda_sg2.png" />
+
+## Stretch Goal 3: Rwanda and the Detailed Maps for Eastern Province + North and West Provinces
+<img src="./rwanda_sg3.png" />
